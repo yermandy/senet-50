@@ -1,0 +1,7 @@
+__pycache__
+
+model/*
+resources/*
+results/*
+
+!senet50_256.py
